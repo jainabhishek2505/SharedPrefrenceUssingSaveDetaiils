@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SharedPrefrenceUssingSaveDetaiils</string>
+    <string name="Email_check">plz fill the correct email </string>
+    <string name="Password_check">plz fill the correct password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next" />
+    <string name="logout">Logout</string>
+    <string name="underScore">—</string>
+    <string name="email">Email:</string>
+    <string name="saved_details">Saved Details</string>
+    <string name="name">Name:</string>
+    <string name="don_t_have_an_account_register">Don’t have an account? Register</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="no_account_found_please_register_first">No account found. Please register first.</string>
+</resources>
