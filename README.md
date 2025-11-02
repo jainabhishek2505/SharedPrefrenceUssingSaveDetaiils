@@ -75,11 +75,7 @@ A simple **Android app** built using **Kotlin**, demonstrating user **Signup, Lo
 3. Sync Gradle and run the app on an emulator or a real device
 
 -----
-## 📦 Apk Url 
-1.Install app on your phone using this URl :
-https://drive.google.com/file/d/1Hl5sJHsmP2cnhCvgS6G5Mf18E9QKI0hs/view?usp=sharing
 
------
 ## 💡 Author
 
 **Abhishek Jain**
